@@ -1,5 +1,5 @@
+name: Update Rates Test
 
-name: Update exchange rates
 
 on:
   workflow_dispatch:
